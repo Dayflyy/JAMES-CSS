@@ -1,2 +1,2 @@
 # JAMES-CSS
-more james
+i remade a website about me
